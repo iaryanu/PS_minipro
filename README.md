@@ -43,22 +43,4 @@ Project files
 - requirements.txt        Python dependencies
 - .streamlit/config.toml  Theme settings
 
-How to run
-1. Install Python 3.9 or newer.
-2. Open a terminal in this folder.
-3. (Optional) Create a virtual environment:
-     python -m venv venv
-     venv\Scripts\activate        (Windows)
-     source venv/bin/activate     (Mac/Linux)
-4. Install dependencies:
-     pip install -r requirements.txt
-5. Start the app:
-     streamlit run app.py
-6. The app opens at http://localhost:8501
-
-Run the tests
-     python -m unittest -v
-
-Deploy on Streamlit Community Cloud
-Push these files to a GitHub repo (app.py and requirements.txt at the repo root),
-then create an app at share.streamlit.io and set the main file to app.py.
+The app opens at : https://frauddetectps.streamlit.app/
