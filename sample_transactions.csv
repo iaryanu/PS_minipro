@@ -1,0 +1,13 @@
+customer_name,transaction_amount,account_age_months,failed_attempts,trusted_location
+Rahul,75000,3,4,No
+Priya,12000,18,0,Yes
+Amit,60000,24,1,Yes
+Neha,30000,2,3,Yes
+Arjun,55000,12,5,No
+Sneha,8000,36,0,Yes
+Vikram,95000,4,0,Yes
+Kavya,20000,10,1,No
+Rohan,52000,48,2,Yes
+Divya,15000,1,3,No
+Manish,5000,60,0,Yes
+Anjali,70000,8,3,No
